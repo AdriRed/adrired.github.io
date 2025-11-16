@@ -21,6 +21,7 @@ interface Post {
 		tags: string[];
 		category?: string;
 		published: Date;
+        draft: boolean;
 	};
 }
 
@@ -133,7 +134,7 @@ onMount(async () => {
                      group-hover:translate-x-1 transition-all group-hover:text-[var(--primary)]
                      text-75 pr-8 whitespace-nowrap overflow-ellipsis overflow-hidden"
                         >
-                            {post.data.title}
+                            {(post.data.draft ? "[DRAFT] " : "") + post.data.title}
                         </div>
 
                         <!-- tag list -->
