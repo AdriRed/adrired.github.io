@@ -5,7 +5,7 @@ description: "Cómo coj**** se crea un blog de cero y alojado en un dominio???"
 image: "./cover.png"
 tags: ["Blogging", "Internet"]
 category: Informática
-draft: true
+draft: false
 ---
 
 La verdad, nunca he tenido muchas intenciones de tener mi propia web, ni siquiera un blog! Pero me dió a pensar que tal vez es una forma de forzarme a hacer cosas y tener mini-proyectos para enseñarlo a los 4 gatos que os he compartido esta web.
