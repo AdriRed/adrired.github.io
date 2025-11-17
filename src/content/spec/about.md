@@ -6,6 +6,6 @@ En mis ratos libres me gusta jugar a videojuegos, cocinar, leer, escuchar músic
 
 Lo más seguro es que mi futuro pase por hacer el master de sistemas complejos y biofísica, más hacia la primera parte.
 
-Este blog lo he hecho gracias a la plantilla [fuwari para astro](https://github.com/saicaca/fuwari) y es mi primera web alojada, así que esperaros cambios, ya que poco a poco voy entendiendo y haciendo más mia esta web.
+Este blog lo he hecho gracias a la plantilla [fuwari para astro](https://github.com/saicaca/fuwari) escogida por la Clara (gracias!) y es mi primera web alojada, así que esperaros cambios, ya que poco a poco voy entendiendo y haciendo más mia esta web.
 
-También es la primera vez que uso dominios, y todo esto es posible gracias a la _insistencia_ de [Martí Pardo](https://martipardo.com/), promotor de la web de [fisica.cat](fisica.cat)
+También es la primera vez que uso dominios, y todo esto es posible gracias a la _insistencia_ de [Martí Pardo](https://martipardo.com/), promotor de la web de [https://fisica.cat](fisica.cat)
